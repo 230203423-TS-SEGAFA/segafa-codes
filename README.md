@@ -2,3 +2,4 @@ My app provides an intuitive platform for teachers to manage student information
  features such as adding, viewing, updating, and removing student data, making classroom
  management easier and more efficient. It’s designed with authentication to ensure data
  security and is fully responsive, making it accessible across all devices
+![image](https://github.com/user-attachments/assets/e5acf78d-e36b-4b26-97b3-b5c94ea302f1)
